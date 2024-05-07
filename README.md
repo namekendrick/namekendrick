@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey, I'm Kendrick 👋
+
+- 💻I've been coding in JavaScript since the pandemic
+- 💪Since then, I've built [Hiither](https://hiither.com/home/guide/37e25f11-4c25-4431-b046-889e89fd3d05/view) and [Piicasso](https://www.piicasso.com/)
+- 🧪I'm also exploring data analysis with Python and learning Go
+- 📨Reach out to me here: kendrick.d3.johnson@gmail.com
 
 <!--
 **namekendrick/namekendrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
